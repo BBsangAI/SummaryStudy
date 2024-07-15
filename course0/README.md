@@ -1,4 +1,4 @@
-# SummerStudy
+# SummerStudy1
 ************笔记仓库，书生大模型暑期训练营：[仓库链接](https://github.com/InternLM/Tutorial)***********
 
 ## 2024/7/15
