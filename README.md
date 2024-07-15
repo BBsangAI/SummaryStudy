@@ -1,5 +1,6 @@
 # SummaryStudy
-笔记仓库，书生大模型暑期训练营（https://github.com/InternLM/Tutorial）[详情链接]
+笔记仓库，书生大模型暑期训练营[详情链接][1]
+[1]：https://github.com/InternLM/Tutorial
 
 2024/7/15
 
