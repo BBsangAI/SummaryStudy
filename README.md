@@ -1,8 +1,12 @@
 # SummaryStudy
-笔记仓库，书生大模型暑期训练营 [地址]（https://github.com/InternLM/Tutorial）
+笔记仓库，书生大模型暑期训练营（https://github.com/InternLM/Tutorial）[详情链接]
+
 2024/7/15
+
 一.linux
+
 1.SSH远程连接+端口映射
+
 使用vscode远程连接成功
 
 ![alt text](image-2.png)
