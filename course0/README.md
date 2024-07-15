@@ -1,4 +1,4 @@
-# SummaryStudy
+# SummerStudy
 ************笔记仓库，书生大模型暑期训练营：[仓库链接](https://github.com/InternLM/Tutorial)***********
 
 ## 2024/7/15
@@ -60,5 +60,7 @@ text原始输入：
 最终输出
 
 ![alt text](IMAGE/1721050798640.jpg)
+
+
 
 
