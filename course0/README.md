@@ -3,7 +3,7 @@
 
 2024/7/15
 
-##一.linux
+<font size=5>一.linux
 
 ###1.SSH远程连接+端口映射
 
@@ -25,11 +25,11 @@
 提交完成，正在审核
 
 ![alt text](IMAGE/image.png)
-![alt text](IMAGE/image-5.png)
+![alt text](IMAGE/-5.png)
 
 ###2.构建自己的项目
 
-![alt text](IMAGE/-6.png)
+![alt text](IMAGE/image-6.png)
 
 
 ##三.python
