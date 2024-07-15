@@ -14,8 +14,9 @@
 ### 2.添加端口映射后，可以访问
 
 ![alt text](IMAGE/image-7.png)
-![alt text](IMAGE/image-4.png)
 ![alt text](IMAGE/image-3.png)
+![alt text](IMAGE/image-4.png)
+
 
 ## 二.git
 ### 1.破冰任务
@@ -25,7 +26,7 @@
 提交完成，正在审核
 
 ![alt text](IMAGE/image.png)
-![alt text](IMAGE/-5.png)
+![alt text](IMAGE/image-5.png)
 
 ### 2.构建自己的项目
 
